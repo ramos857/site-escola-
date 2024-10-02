@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0; 
+}
+
+.cabecalho{
+    background-color: antiquewhite;
+    color: antiquewhite;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 24px 0;
+}
